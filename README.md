@@ -1,0 +1,1 @@
+A python implementation of connect 4 written in only one line of code.  Mostly a joke.
